@@ -13,9 +13,6 @@ In a Circular list, there is no `NULL` at the end. The **Tail** connects back to
 * **Doubly Circular:** A ring where you can traverse both ways indefinitely.
 * **Stopping Condition:** Since `current.next` is never NULL, we stop traversing when `current == head`.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/eb2cfafa-af1c-4fe4-89f8-eb2c95d9c15f" />
-
-
 
 ### 3. Complex Operations
 We cover the specific logic required to maintain these structures:
